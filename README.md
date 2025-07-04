@@ -1,7 +1,7 @@
 # Task 8: Simple Sales Dashboard Design  
 Elevate Labs Data Analyst Internship
 <br>
-Date: July 1, 2025
+Date: July 4, 2025
 <br>
 Author: Mehvish Idreesi
 <br>
