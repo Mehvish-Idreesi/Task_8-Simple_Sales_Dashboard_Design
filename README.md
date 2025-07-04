@@ -27,7 +27,7 @@ Performed in **Power Query Editor**:
 
 | File Name                         | Description                                          |
 |----------------------------------|------------------------------------------------------|
-| `ecommerce_orders_data.csv`      | Cleaned dataset used for building the dashboard      |
+| `ecommerce_orders_data.csv`      | Dataset used for building the dashboard      |
 | `Ecommerce sales dashboard.pbix` | Power BI file containing the final dashboard         | 
 | `dashboard_image.png`            | Screenshot of the final dashboard                    | 
 | `data_transformation_image.png`  | Screenshot of data transformation steps in Power Query |
